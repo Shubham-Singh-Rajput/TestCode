@@ -1,7 +1,10 @@
 http://localhost:3000/user/school/category?board=ICSE&medium=ENGLISH&category=Higher Secondary   (get the School list based on Query)
 http://localhost:3000/user/school/medium?board=ICSE&medium=ENGLISH (get the School list based on Query)
+
 http://localhost:3000/user/school/board?board=ICSE (get the School list based on Query)
+
 http://localhost:3000/user/school (get the School list based on Query)
+
 
 http://localhost:3000/admin/register (post Request Add School by admin)
 body = {
